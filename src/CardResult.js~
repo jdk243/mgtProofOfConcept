@@ -1,0 +1,15 @@
+import React, { Component } from 'react';
+
+const CardResult = ( props ) => {
+	return(
+		<h2>Nissa</h2>
+	);
+};
+
+CardResult.propTypes = {
+	
+};
+
+export default CardResult; 
+
+
