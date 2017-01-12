@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * npm install
 * npm start
 
-get editing and have fun
+get editing and have fun  
 version with redux and boilerplate and actual calls to api coming tomorrow...
